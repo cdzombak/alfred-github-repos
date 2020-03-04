@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>edgarjs.github-repos.workflow</string>
+	<string>org.dzombak.alfred-github-repos</string>
 	<key>category</key>
 	<string>Internet</string>
 	<key>connections</key>
@@ -105,7 +105,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>edgarjs</string>
+	<string>edgarjs + cdzombak</string>
 	<key>description</key>
 	<string>Easily open any Github repository</string>
 	<key>disabled</key>
@@ -476,7 +476,7 @@ OTHER ACTIONS
 
 ENTERPRISE
 
-If you're using an enterprise account, set your enterprise host with `gh-host &lt;host&gt;`.
+If you&apos;re using an enterprise account, set your enterprise host with `gh-host &lt;host&gt;`.
 
 The host value should be something like `https://example.com`
 
@@ -585,8 +585,8 @@ NOTE: This is an experimental feature that may not work as expected, if you find
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>2.1.1</string>
+	<string>2.2.0</string>
 	<key>webaddress</key>
-	<string>https://github.com/edgarjs/alfred-github-repos</string>
+	<string>https://github.com/cdzombak/alfred-github-repos</string>
 </dict>
 </plist>
