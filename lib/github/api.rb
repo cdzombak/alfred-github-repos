@@ -98,7 +98,7 @@ module Github
 
       {
         body: parse_body(res.body),
-        next_page: get_next_page(res[:link])
+        next_page: get_next_page(res['link'])
       }
     end
 
